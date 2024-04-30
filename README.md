@@ -22,6 +22,10 @@ A detailed blog with instructions can be found [here](./blog.md)
 4. Download Continue VS Code extension to work with LLMs [here](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
 5. Connect VS Code with Ollama and the model you created.
 
+## Next Steps
+- [ ] Optimize system prompt to include coding style, doc-string format
+- [ ] Test the coding agent for other languages (JavaScript)
+
 
 ## Reference
 This blog was inspired from the LinkedIn post by Pau Bajo [here]( https://www.linkedin.com/posts/pau-labarta-bajo-4432074b_machinelearning-llmops-llms-activity-7190620863602282498-q1Lg?utm_source=share&utm_medium=member_desktop)
