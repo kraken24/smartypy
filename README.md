@@ -15,7 +15,7 @@ A detailed blog with instructions can be found [here](./blog.md)
         # ./Modelfile
         FROM llama3
         PARAMETER temperature 0
-        SYSTEM "You are Python coding assistant. Help me autocomplete my Python code."
+        SYSTEM "Hey llama3, I need your help with Python code completion. I want you to analyze my current code and suggest the most likely and accurate completions based on my query, context and best practices. If you need any additional information to complete the task, feel free to ask me."
     ```
     2. Create a model from modelfile with
     `ollama create my-python-assistant -f ./Modelfile`
