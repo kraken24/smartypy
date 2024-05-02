@@ -22,8 +22,14 @@ A detailed blog with instructions can be found [here](./blog.md)
 4. Download Continue VS Code extension to work with LLMs [here](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
 5. Connect VS Code with Ollama and the model you created.
 
+## Example
+In the [examples](examples/) folder, there are some examples of llama3 capabilities and how it can massively improve your **efficiency** while coding. Since the temperature value in Modelfile is set to 0, the results should be reproducible.
+- [x] Integrated code generation
+- [x] Doc-Strings and Type Hinting
+- [x] Writing unit tests
+
 ## Next Steps
-- [ ] Optimize system prompt to include coding style, doc-string format
+- [ ] Optimize system prompt to include specific coding style, doc-string format
 - [ ] Test the coding agent for other languages (JavaScript)
 
 
