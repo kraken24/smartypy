@@ -1,5 +1,8 @@
-# Simple Calculator Program
+"""
+Prompt:
+Write doc-strings and provide type-hinting for all the functions
 
+"""
 def add(x, y):
     return x + y
 

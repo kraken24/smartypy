@@ -22,8 +22,15 @@ A detailed blog with instructions can be found [here](./blog.md)
 4. Download Continue VS Code extension to work with LLMs [here](https://marketplace.visualstudio.com/items?itemName=Continue.continue)
 5. Connect VS Code with Ollama and the model you created.
 
+## Example
+Follow the files and instructions in [examples](examples/) folder to see how you can improve your **efficiency** while coding.
+- [x] Integrated code generation
+- [x] Doc-Strings and Type Hinting
+- [x] Writing unit tests
+- [x] Generating pyproject.toml file for poetry
+
 ## Next Steps
-- [ ] Optimize system prompt to include coding style, doc-string format
+- [ ] Optimize system prompt to include specific coding style, doc-string format
 - [ ] Test the coding agent for other languages (JavaScript)
 
 
