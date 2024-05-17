@@ -40,6 +40,7 @@ Launch VS Code and navigate to the settings. Search for "Continue" and configure
 #### Step 6: Let Your Code Assistant Work Its Magic!
 
 Now that everything's all set up, it's time to let your Python code assistant shine and supercharge your coding experience in VS Code! Get ready for some serious coding efficiency as your assistant swoops in with intelligent suggestions and lightning-fast autocompletions. Let me walk you through two awesome methods for editing your code with this assistant:
+
 ![alt text](/images/image.png)
 
 ##### 1. Inline Editing with Cmd + I
