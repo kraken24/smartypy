@@ -39,11 +39,14 @@ Launch VS Code and navigate to the settings. Search for "Continue" and configure
 
 #### Step 6: Let Your Code Assistant Work Its Magic!
 
-Now that everything's all set up, it's time to let your Python code assistant shine and supercharge your coding experience in VS Code! Get ready for some serious coding efficiency as your assistant swoops in with intelligent suggestions and lightning-fast autocompletions. Let me walk you through two awesome methods for editing your code with this assistant: ![alt text](/images/image.png)
+Now that everything's all set up, it's time to let your Python code assistant shine and supercharge your coding experience in VS Code! Get ready for some serious coding efficiency as your assistant swoops in with intelligent suggestions and lightning-fast autocompletions. Let me walk you through two awesome methods for editing your code with this assistant:
+![alt text](/images/image.png)
 
 ##### 1. Inline Editing with Cmd + I
-By pressing Cmd + I, you can instruct the LLM on what changes to make. Here is one simple example: ![Inline Editing Example](/images/image-1.png)
-Your assistant will suggest before and after code options, giving you the power to choose the best fit for your project. ![Inline Editing Example Results](/images/image-2.png)
+By pressing Cmd + I, you can instruct the LLM on what changes to make. Here is one simple example:
+![Inline Editing Example](/images/image-1.png)
+Your assistant will suggest before and after code options, giving you the power to choose the best fit for your project.
+![Inline Editing Example Results](/images/image-2.png)
 
 ##### 2. Continue Interface Editing with Cmd + L
 By pressing Cmd + L, the Continue Extension opens up a handy side window for interactive LLM-assisted code editing. Similar to inline editing, you can provide specific instructions, and your assistant will take care of the rest. ![Continue Interface Editing](/images/image-3.png)
